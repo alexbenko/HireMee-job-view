@@ -9,5 +9,8 @@ This was a project I completed in my last week of Hack Reactor. I worked with a 
 HireMee is a website that helps you neatly keep track of all your job applications and their respective statuses.
 <br/>
 
+Highlights: <br/>
+  1. Promise based sorting function
+      see: https://github.com/alexbenko/HireMee-job-view/blob/master/Jobs.jsx
 
 ![Job View](/job-view.png)
