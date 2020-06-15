@@ -6,7 +6,7 @@ This is just the front end code for the job viewjob component for hiremee
 This was a project I completed in my last week of Hack Reactor. I worked with a group to build a Full Stack Web Application in 6 Days.
 <br/>
 
-HireMee is a website that helps you neatly keep track of all your job applications and their respective statuses.
+HireMee is a website that helps you neatly keep track of all your job applications and their respective statuses as well as statistics and some social media aspects.
 <br/>
 
 I worked on the dashboard that displays 4 columns; Applied, Rejected, Interviews, and Offers. Then each column displays jobs by their respective application status
