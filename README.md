@@ -16,6 +16,8 @@ Highlights: <br/>
       See sortJobInfo at: https://github.com/alexbenko/HireMee-job-view/blob/master/Jobs.jsx
   2. Promise Based form checker functions <br/>
       See formChecker and salaryChcker: https://github.com/alexbenko/HireMee-job-view/blob/4e632c2ae278881ba67f7e06a3c29862790afd17/Applied.jsx#L69
+  3. Conditional Styling/Rendering <br/>
+      See moneyTemp : https://github.com/alexbenko/HireMee-job-view/blob/2433bf24a7517177b8ae222a059da8b1233f7096/DetailedView.jsx#L147
 
 ![Job View](/job-view.png) <br/>
 
