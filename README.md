@@ -20,5 +20,5 @@ Highlights: <br/>
 ![Job View](/job-view.png) <br/>
 
 When you click on a job...
-![Detailed Job View](/detailed.png)
+![Detailed Job View](/view.png)
 
