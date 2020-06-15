@@ -30,30 +30,6 @@ let plusOrMinus = (desiredSalary,jobSalary) =>{
   }
 };
 
-let moneyTemp = (desiredSalary,jobSalary) =>{
-
-  if(desiredSalary < jobSalary){
-    return (
-      <div style={style.desired}>
-        Desired: {plusOrMinus(desired,jobInfo.salary)+ calculateSalaryDifference(desired,jobInfo.salary)}
-      </div>
-      );
-  } else if(desiredSalary === jobSalary){
-    return (
-      <div style={{color:"rgb(32, 187, 136)",fontWeight: "700",fontStyle: "normal"}}>
-        <MonetizationOnIcon style={{ color: green[500] }}/> Salary is exactly what you are looking for !!!
-      </div>
-
-
-      )
-  } else {
-    return (
-      <div style={style.desired}>
-        Desired: {plusOrMinus(desired,jobInfo.salary)+ calculateSalaryDifference(desired,jobInfo.salary)}
-      </div>
-    );
-  }
-}
 
 let deleteApplication =() =>{
   axios.delete('/api/applications/')
