@@ -9,6 +9,8 @@ This was a project I completed in my last week of Hack Reactor. I worked with a 
 HireMee is a website that helps you neatly keep track of all your job applications and their respective statuses.
 <br/>
 
+I worked on the dashboard that displays 4 columns; Applied, Rejected, Interviews, and Offers. Then each column displays jobs by their respective application status
+
 Highlights: <br/>
   1. Promise based sorting function <br/>
       See sortJobInfo at: https://github.com/alexbenko/HireMee-job-view/blob/master/Jobs.jsx
