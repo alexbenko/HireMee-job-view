@@ -11,7 +11,7 @@ HireMee is a website that helps you neatly keep track of all your job applicatio
 
 Highlights: <br/>
   1. Promise based sorting function <br/>
-      see: https://github.com/alexbenko/HireMee-job-view/blob/master/Jobs.jsx
+      See sortJobInfo at: https://github.com/alexbenko/HireMee-job-view/blob/master/Jobs.jsx
   2. Promise Based form checker functions <br/>
       See formChecker and salaryChcker: https://github.com/alexbenko/HireMee-job-view/blob/master/Applied.jsx
 
