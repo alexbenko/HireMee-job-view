@@ -15,6 +15,6 @@ Highlights: <br/>
   1. Promise based sorting function <br/>
       See sortJobInfo at: https://github.com/alexbenko/HireMee-job-view/blob/master/Jobs.jsx
   2. Promise Based form checker functions <br/>
-      See formChecker and salaryChcker: https://github.com/alexbenko/HireMee-job-view/blob/master/Applied.jsx
+      See formChecker and salaryChcker: https://github.com/alexbenko/HireMee-job-view/blob/4e632c2ae278881ba67f7e06a3c29862790afd17/Applied.jsx#L69
 
 ![Job View](/job-view.png)
