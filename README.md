@@ -17,4 +17,7 @@ Highlights: <br/>
   2. Promise Based form checker functions <br/>
       See formChecker and salaryChcker: https://github.com/alexbenko/HireMee-job-view/blob/4e632c2ae278881ba67f7e06a3c29862790afd17/Applied.jsx#L69
 
-![Job View](/job-view.png)
+![Job View](/job-view.png) <br/>
+
+When you click on a job...
+![Detailed Job View](/detailed.png)
