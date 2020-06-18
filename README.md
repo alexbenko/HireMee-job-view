@@ -24,3 +24,7 @@ Highlights: <br/>
 When you click on a job...
 ![Detailed Job View](/view.png)
 
+<br/>
+
+Full Code Base: <br/>
+https://github.com/hire-mee/hire-mee
