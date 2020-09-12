@@ -1,6 +1,6 @@
 # HireMee-job-view
 
-This is just the front end code for the job viewjob component for hiremee
+This is just the front end code for the jobs and viewjob component for hiremee. I built out the backend as well, but it was not anything that I haven't been able to do in any of my other projects
 <br/>
 
 This was a project I completed in my last week of Hack Reactor. I worked with a group to build a Full Stack Web Application in 6 Days.
