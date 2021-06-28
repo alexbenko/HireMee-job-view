@@ -1,5 +1,8 @@
 # HireMee-job-view
 
+Full Code Base: <br/>
+https://github.com/hire-mee/hire-mee
+
 This is just the front end code for the jobs and viewjob component for hiremee. I built out the backend as well, but it was not anything that I haven't been able to do in any of my other projects
 <br/>
 
@@ -25,6 +28,3 @@ When you click on a job...
 ![Detailed Job View](/view.png)
 
 <br/>
-
-Full Code Base: <br/>
-https://github.com/hire-mee/hire-mee
